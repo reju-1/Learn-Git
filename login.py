@@ -1,0 +1,1 @@
+print(long in don)
